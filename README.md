@@ -13,16 +13,16 @@ Pandas:
 - You'd have to configure Anaconda as your default Python (the link will show you)
 
 Selenium:
-- pip install selenium
+`pip install selenium`
 
 BeautifulSoup4:
-- pip install beautifulsoup4
+`pip install beautifulsoup4`
 
 
 If you find that the script is crashing because your Chrome version outdates selenium's web driver version, you can upgrade chromedriver. On Mac, this would be something like:
 
-brew cask upgrade chromedriver
+`brew cask upgrade chromedriver`
 
 In general you can just run:
 
-npm install chromedriver
+`npm install chromedriver`
